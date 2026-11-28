@@ -12,4 +12,4 @@ Business rules (BR-1 to BR-13) and use cases (UC-1 to UC-5) are traced in the de
 | R6 | other systems | to read lines and exceptions, and close an exception only on ledger evidence | no system closes on another's word | service routes with grants; `resolve` checks the ledger and consumes the open item |
 | R7 | operator | redelivery, crashes and dead letters handled | I do not repair by hand | claims, resumable handler, `reconcile` |
 
-Non-functional: private by default; one tenant per deployment; free tier. Out of scope: multi-currency matching, a user interface, multi-tenant deployments.
+Non-functional: private by default; one tenant per deployment. Out of scope: multi-currency matching, a user interface, multi-tenant deployments.

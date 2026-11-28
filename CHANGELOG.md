@@ -18,7 +18,7 @@ Newest first. [Keep a Changelog](https://keepachangelog.com). Released by commit
 
 ## 25 November 2026 (GCP-01)
 ### Added
-- Google Cloud free-tier deployment: Cloud Run, Firestore repository, Pub/Sub push delivery, scheduled run.
+- Google Cloud deployment: Cloud Run, Firestore repository, Pub/Sub push delivery, scheduled run.
 
 ## Earlier
 - The completed project rebuilt from the spike on the E2A and A2C frameworks (AWS reference deployment).

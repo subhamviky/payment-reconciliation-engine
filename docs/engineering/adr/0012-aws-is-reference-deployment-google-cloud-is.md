@@ -6,7 +6,7 @@
 
 ## Context
 
-The engine was built on AWS (Lambda, DynamoDB, SQS, EventBridge) and later run on Google Cloud's free tier.
+The engine was built on AWS (Lambda, DynamoDB, SQS, EventBridge) and later run on Google Cloud.
 
 ## Options considered
 
